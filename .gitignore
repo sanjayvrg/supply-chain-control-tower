@@ -1,0 +1,5 @@
+scd.csv
+supply_chain.db
+__pycache__/
+*.pyc
+.venv/
